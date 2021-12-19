@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/example-talk/</loc>
+    <loc>https://github.com/maitake9116/portfolio/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://github.com/maitake9116/portfolio/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://github.com/maitake9116/portfolio/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/academic/</loc>
+    <loc>https://github.com/maitake9116/portfolio/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://github.com/maitake9116/portfolio/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/category/demo/</loc>
+    <loc>https://github.com/maitake9116/portfolio/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://github.com/maitake9116/portfolio/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://github.com/maitake9116/portfolio/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>https://github.com/maitake9116/portfolio/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://github.com/maitake9116/portfolio/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://github.com/maitake9116/portfolio/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>https://github.com/maitake9116/portfolio/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
+    <loc>https://github.com/maitake9116/portfolio/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/deep-learning/</loc>
+    <loc>https://github.com/maitake9116/portfolio/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/example/</loc>
+    <loc>https://github.com/maitake9116/portfolio/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://github.com/maitake9116/portfolio/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
+    <loc>https://github.com/maitake9116/portfolio/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/example/</loc>
+    <loc>https://github.com/maitake9116/portfolio/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://github.com/maitake9116/portfolio/publication_types/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://github.com/maitake9116/portfolio/publication/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://github.com/maitake9116/portfolio/admin/</loc>
   </url>
 </urlset>
